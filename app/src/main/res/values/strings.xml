@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="vertical">Vertical view</string>
+    <string name="horizontal">horizontal view</string>
+    <string name="grid">grid view</string>
+    <string name="staggered_grid">staggered grid</string>
+</resources>
